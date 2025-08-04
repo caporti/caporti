@@ -1,30 +1,27 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">A data scientist from Spain</h3>
+<h3 align="center">An AI Engineer specialized in Intelligent Agents, Deep Learning, and Machine Learning</h3>
 
 ## 💬 Ask me about
-- Backend web development (Python, TypeScript, PHP)
-- Frontend web development (Vue.js, React.js)
-- Docker
-- Deep Learning and Machine Learning
-- Cloud Architecture
-- Design Patterns
-- Gardening (Bonsai enthusiast :evergreen_tree:)
-- Side projects (Lazy Link ft. @dmfigueroa)
+- AI Agents architecture & protocols (MCP, A2A, custom communication layers)
+- Multi-Agent Systems design & orchestration
+- Reinforcement Learning for autonomous decision-making
+- Deep Learning & Machine Learning pipelines
+- LLM integration and fine-tuning
+- Cloud AI infrastructure (AWS, GCP, Azure)
+- MLOps, deployment, and monitoring of AI models
+
+## 📚 Certifications
+- 🏅 **Google Cloud Professional Machine Learning Engineer**
+- 🏅 **Google Cloud Professional Data Engineer**
 
 ## 📅 Hobbies
-- Solve programming problems at Codeforces, UVa, LeetCode
-- Watch anime and TV shows
-- Read some manga
-- Play videogames
-- etc...
-
-## 💻 Current projects
-- viajin [WIP] - Side project
-- budget [WIP] - Side project
-- todo [WIP] - Side project
+- Research and experiment with new AI agent interaction patterns
+- Read papers from arXiv & AI conferences
+- Explore new reinforcement learning frameworks
+- Participate in AI challenges and hackathons (🏆 multiple wins)
 
 ## 📚 Learning
-- Hono.js with RPC
-- Remix
-- TypeScript
-- Cloudflare workers
+- Advanced agent-to-agent (A2A) negotiation protocols
+- Multi-agent coordination strategies
+- Autonomous tool usage for LLM-based agents
+- Cutting-edge research in RLHF and LLM orchestration
